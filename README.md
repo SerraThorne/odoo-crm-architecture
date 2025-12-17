@@ -4,14 +4,14 @@ Architecture Summary
 ##  System Architecture
 
 ### **Core Components**
-- **Azure OAuth2 Email Integration** (IMAP + SMTP)  
-- **CRM Pipeline Reconstruction** (multi-stage leasing operations)  
-- **QWeb PDF Engine** (Property Data Sheet v1)  
-- **Stage-Based Automations** (13+ systems)  
-- **SLA Timers** (6 fully functional timers)  
-- **Custom Studio Fields** (VA workflows, lease fields, funds tracking)  
-- **Internal Channels** (Corey, VAs, Operators, Alerts)  
-- **Property Linking System** (Selected Property → Auto-fill PDF)
+- **Azure OAuth2 Email Integration** 
+- **CRM Pipeline Reconstruction** 
+- **QWeb PDF Engine**  
+- **Stage-Based Automations** 
+- **SLA Timers**  
+- **Custom Studio Fields**  
+- **Internal Channels** 
+- **Property Linking System** 
 
 
 
