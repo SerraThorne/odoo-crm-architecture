@@ -166,3 +166,6 @@ fixed-position layers
 Solution:
 
 Clean, minimalist inline CSS layout.
+This repository contains architectural documentation, screenshots, and sample artifacts intended to demonstrate system design and implementation approach.
+
+Client-specific data, credentials, and proprietary logic have been intentionally excluded.
